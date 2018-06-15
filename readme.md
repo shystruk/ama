@@ -4,6 +4,8 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+I can also be reached on [Twitter](https://twitter.com/shystrukk) and [Email](mailto:v.stokol@gmail.com) 👋
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
